@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Michael-champions (Michael Heavenly)
+- 👋 Hi, I’m @Michael-champions (Michael Attah Obi)
 
 I'm a software developer.
 

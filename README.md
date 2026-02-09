@@ -1,23 +1,29 @@
-- 👋 Hi, I’m @Michael-champions (Michael Attah Obi)
+Hi, I’m @Michael-champions (Michael Attah Obi)
 
-I'm a software developer.
+I’m an IT Support and Systems professional with a strong foundation in software engineering, networking, and cloud-based operations. I completed Software Engineering training with ALX and I’m currently studying Information Technology through BYU–Pathway Worldwide and Ensign College.
 
-I'm passionate about how technology boosts productivity and economic growth. I think is important to ask why and what we want to achieve before starting a project. I love how ideas come true by typing lines of code. I take a special liking to Python, C#, java and php and the cool things we can do with ML/DL recent developments.  
+I specialize in troubleshooting, user support, and system administration, with hands-on experience supporting Windows and Linux environments, networks, and cloud resources. I enjoy solving technical problems, improving system reliability, and supporting users with clear documentation and efficient processes.
 
-I love basketball, travel and excersing, and oh, i love food too. is there a better way to understand a culture than through its food, clothing and language ? I doubt.
-- 👀 I’m interested in .... a lot especially software development and or anything ict, I'm in!.
-I would love to travel to places like Verona, Paris, London, Berlin and of course United States.
-I love africa.
+Focus areas:
+- IT support & issue resolution  
+- Networking & systems troubleshooting  
+- Cloud-based user and resource support  
+- Hardware, software & OS support  
+- Documentation & IT workflows  
 
-- 🌱 I’m currently looking to working either remotely or otherwise.
-- 💞️ I’m looking to collaborate on any project anywhere, that will help me improve and enhance my experience as well as support my plans for the future through technology,call me in, lets build a future together. ...
-- 📫 How to reach me,
-twitter @Michaelattah. Whatsapp @ +2348136707433
-https://www.linkedin.com/in/michael-champions-attah
+Open to remote or on-site IT Support / Systems roles  
+Open to collaboration and hands-on IT projects  
 
+🛠 Tech Stack:
+- OS: Windows, Linux (Ubuntu)
+- Networking: TCP/IP, DNS, DHCP, VPN basics
+- Cloud: AWS & Azure (fundamentals)
+- Tools: Git, GitHub, ticketing concepts
+- Scripting: Bash, Python (basic automation)
+- Servers: Apache, Nginx
 
-Looking forward to meeting you! 
-
+Whatsapp @ +2348136707433
+[  ](https://www.linkedin.com/in/michael-heavenly/)
 
 <!---
 Michael-champions/Michael-champions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
